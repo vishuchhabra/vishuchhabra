@@ -46,4 +46,6 @@
 <br />
 <br />
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuchhabra&layout=compact" alt="ab63" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishuchhabra&show_icons=true" alt="ab63" /></p>
