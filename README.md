@@ -45,8 +45,9 @@
 
 <br />
 <br />
-<br>
-<br>
+
+### More About my Technical skills:
+<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuchhabra&layout=compact&theme=tokyonight" alt="vishuchhabra" /></p>
 
