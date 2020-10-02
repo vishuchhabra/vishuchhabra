@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishu Chhabra</h1>
-<h3 align="center">A passionate Backend Developer,Database Manager and Competative Programmer from  INDIA</h3>
+<h3 align="left">A passionate Backend Developer,Database Manager and Competative Programmer from  INDIA</h3>
 
 <br>
 <br>
