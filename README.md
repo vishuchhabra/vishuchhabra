@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishu Chhabra</h1>
-<h3 align="center">A passionate Backend Developer,Database Manager and Competative Programmer from  India</h3>
+<h3 align="center">A passionate Backend Developer,Database Manager and Competative Programmer from  INDIA</h3>
 
 <br>
+
+### Connect with me:
+
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+
+<a href="https://www.linkedin.com/in/vishu-chhabra-728a3b186/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 ### Languages and Tools:
