@@ -31,7 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
 <img align="left" alt="Python" width="26px" src="https://avatars3.githubusercontent.com/u/18085590?s=200&v=4"/>
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png"/>
+<img align="left" alt="C" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanmarboc.com%2Fcourse%2Fc-programming-language%2F&psig=AOvVaw1GEVPRajDzk1B7zAgjnpVP&ust=1601701414227000&source=images&cd=vfe&ved=2ahUKEwjQ3_XvkJXsAhUX7zgGHUX9B9AQjRx6BAgAEAc"/>
 
 <br />
 <br />
