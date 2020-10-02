@@ -13,7 +13,7 @@
 <br>
 
 ### Connect with me:
-<a href="https://vishuchhabra.github.io/Personal_webiiste/">
+<a href="https://vishuchhabra.github.io/">
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vishu-chhabra-728a3b186/">
