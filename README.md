@@ -4,6 +4,16 @@
 <br>
 <br>
 
+
+- 🔭 I’m currently working in the Web team of **BG UNIFIED SOLUTIONS**
+
+- 🌱 I’m currently working on **Improving problem solving skills**
+
+- 📫 How to reach me **vishuchhabra1016@gmail.com**
+
+<br>
+<br>
+
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
