@@ -48,7 +48,7 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuchhabra&layout=compact" alt="ab63" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishuchhabra" alt="ab63" /></p>
 <br>
 <br>
 
