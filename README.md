@@ -5,9 +5,9 @@
 <br>
 
 
-- 🔭 I’m currently working in the Web team of **BG UNIFIED SOLUTIONS**
+- 🔭 I’m currently working as Backend Developer in **BG UNIFIED SOLUTIONS**
 
-- 🌱 I’m currently working on **Improving problem solving skills**
+- 🌱 I’m on the way to **Improve my technical skills more and more**
 
 - 📫 How to reach me **vishuchhabra1016@gmail.com**
 
