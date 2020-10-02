@@ -52,4 +52,4 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" alt="ab63" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishuchhabra&show_icons=true&theme=tokyonight" alt="vishuchhabra" /></p>
