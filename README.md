@@ -48,8 +48,9 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishuchhabra" alt="ab63" /></p>
-<br>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab63&layout=compact" alt="ab63" /></p>
+
+<br/>
+<br/>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishuchhabra&show_icons=true&theme=tokyonight" alt="vishuchhabra" /></p>
