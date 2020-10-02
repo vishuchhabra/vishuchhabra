@@ -48,7 +48,7 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab63&layout=compact" alt="ab63" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab63&layout=compact&theme=tokyonight" alt="ab63" /></p>
 
 <br/>
 <br/>
