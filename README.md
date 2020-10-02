@@ -2,7 +2,6 @@
 <h3 align="left">A passionate Backend Developer,Database Manager and Competative Programmer from  INDIA</h3>
 
 <br>
-<br>
 
 
 - 🔭 I’m currently working as Backend Developer in **BG UNIFIED SOLUTIONS**
@@ -12,7 +11,6 @@
 - 📫 How to reach me **vishuchhabra1016@gmail.com**
 
 <br>
-
 
 ### Connect with me:
 
