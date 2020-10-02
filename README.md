@@ -13,9 +13,9 @@
 <br>
 
 ### Connect with me:
-
+<a href="https://vishuchhabra.github.io/Personal_webiiste/">
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-
+</a>
 <a href="https://www.linkedin.com/in/vishu-chhabra-728a3b186/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
