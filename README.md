@@ -31,7 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
 <img align="left" alt="Python" width="26px" src="https://avatars3.githubusercontent.com/u/18085590?s=200&v=4"/>
-<img align="left" alt="C" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanmarboc.com%2Fcourse%2Fc-programming-language%2F&psig=AOvVaw1GEVPRajDzk1B7zAgjnpVP&ust=1601701414227000&source=images&cd=vfe&ved=2ahUKEwjQ3_XvkJXsAhUX7zgGHUX9B9AQjRx6BAgAEAc"/>
+<img align="left" alt="C" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmyanmarboc.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fc-logo.png&imgrefurl=https%3A%2F%2Fmyanmarboc.com%2Fcourse%2Fc-programming-language%2F&tbnid=00eZTQIqJW1sTM&vet=12ahUKEwi0zNztkJXsAhXRyXMBHfB0BTEQMygCegUIARCsAQ..i&docid=pAGjuOmLEJv_qM&w=737&h=692&q=C%20logo%20official&ved=2ahUKEwi0zNztkJXsAhXRyXMBHfB0BTEQMygCegUIARCsAQ"/>
 
 <br />
 <br />
