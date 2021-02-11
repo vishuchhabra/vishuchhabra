@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Student at UIET, Panjab University Chandigarh. 
 
-- 🌱 I’m on the way to **Improve my technical and problem solving skills more and more.**
+- 🌱 I’m on the way to **Improve my technical as well as problem solving skills more and more.**
 
 - 📫 How to reach me **vishuchhabra1016@gmail.com**
 
