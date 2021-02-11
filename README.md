@@ -50,9 +50,9 @@
 ### More About my Technical skills:
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuchhabra&layout=compact&theme=tokyonight" alt="vishuchhabra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuchhabra&layout=compact&theme=dark" alt="vishuchhabra" /></p>
 
 <br/>
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishuchhabra&show_icons=true&theme=tokyonight" alt="vishuchhabra" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishuchhabra&show_icons=true&theme=dark" alt="vishuchhabra" /></p>
