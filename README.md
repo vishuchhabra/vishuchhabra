@@ -1,12 +1,13 @@
 <h1 align="center">Hii 👋, I'm Vishu Chhabra  <span> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="35px"/> </span> </h1>
-<h3 align="left">A Passionate Full Stack Developer and Competative Programmer from  INDIA</h3>
+<h3 align="left">A Passionate Full Stack Developer and Competative Programmer from  INDIA 
+<span> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="35px"/> </span></h3>
 
 <br>
 
 
-- 🔭 I’m  currently working on my problem solving skills
+- 🔭 I’m a Student at UIET, Panjab University Chandigarh. 
 
-- 🌱 I’m on the way to **Improve my technical skills more and more**
+- 🌱 I’m on the way to **Improve my technical and problem solving skills more and more.**
 
 - 📫 How to reach me **vishuchhabra1016@gmail.com**
 
