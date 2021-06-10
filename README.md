@@ -4,6 +4,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishuchhabra" alt="vishuchhabra" /> </p>
+<br>
 
 - 🔭 I’m a Student at UIET, Panjab University Chandigarh. 
 
