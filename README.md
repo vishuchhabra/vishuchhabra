@@ -1,11 +1,11 @@
 <h1 align="center">Hii 👋, I'm Vishu Chhabra  <span> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="35px"/> </span> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishuchhabra" alt="vishuchhabra" /> </p>
+<br>
 <h3 align="left">A Passionate Full Stack Developer and Competative Programmer from  INDIA 
 <span> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="35px"/> </span></h3>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishuchhabra" alt="vishuchhabra" /> </p>
-<br>
 
 - 🔭 I’m a Student at UIET, Panjab University Chandigarh. 
 
