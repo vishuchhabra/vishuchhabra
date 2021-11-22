@@ -18,7 +18,7 @@
 <a href="https://vishuchhabra.github.io/">
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="www.linkedin.com/in/vishuchhabra">
+<a href="https://www.linkedin.com/in/vishuchhabra/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
